@@ -1,0 +1,92 @@
+body {
+padding:0;
+margin:0;
+background-color:white;
+
+}
+
+
+#wrapper {
+margin:0 auto;
+height:10%;
+width:100%;
+
+
+}
+#kontakt {
+margin:0 auto;
+height:20px;
+width:1250px;
+background-color:black;
+}
+
+
+#header_out{
+height:100px;
+width:100%;
+background-color:#FF4A0E;
+
+}
+
+
+#header_in {
+margin:0 auto;
+max-width:1250px;
+height:120px;
+background-color:brown;
+
+
+}
+
+
+#slider_out {
+height:500px;
+width:100%;
+background-color:grey;
+
+
+}
+
+
+#slider_in {
+margin:0 auto;
+max-width:1250px;
+height:500px;
+background-color:orange;
+
+
+}
+
+
+
+#info_out {
+height:400px;
+width:100%;
+background-color:blue;
+
+
+}
+
+#info_in {
+margin:0 auto;
+max-width:1250px;
+height:400px;
+background-color:brown;
+
+
+}
+
+
+
+
+#footer_out {
+height:400px;
+width:100%;
+background-color:pink;
+
+
+}
+
+
+
+
